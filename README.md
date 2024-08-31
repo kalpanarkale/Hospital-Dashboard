@@ -10,3 +10,8 @@ The React-based hospital dashboard is a comprehensive web application designed t
 
 
 This dashboard uses a clean, responsive design with Tailwind CSS for styling and ensures a user-friendly experience for managing hospital information efficiently.
+
+-- Under development 
+
+### Dashboard snapshot
+![image](https://github.com/user-attachments/assets/0f31da00-352e-445d-a344-9b88ac047ca8)
